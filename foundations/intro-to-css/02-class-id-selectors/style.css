@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.common {
+  background-color: #ffaaaa;
+  font-style: Verdana, DejaVu Sans, sans-serif;
+}
+
+div#id1 {
+  color: rgb(0, 4, 222);
+  font-size: 36px;
+}
+
+.number3 {
+  font-size: 24px;
+}
+
+div#id2 {
+  background-color: #48ff60;
+  color: hsl(0, 0%, 0%);
+  font-size: 24px;
+  font-weight: bold;
+}
