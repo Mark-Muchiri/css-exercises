@@ -1,5 +1,6 @@
 /* Add CSS Styling */
-.button {
+.black-button,
+.yellow-button {
   font-size: 28px;
   font-style: Helvetica, "Times New Roman", sans-serif;
 }
